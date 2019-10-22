@@ -711,3 +711,9 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+
+Documentation is like sex.
+When it is good,it's very good.
+When it is bad,it's better than nothing.
+
+***
